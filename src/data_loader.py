@@ -1,4 +1,4 @@
 
 def get_dataloaders(config):
-    print("Simulating data loading with config:", config)
-    return None, None  # Replace with real DataLoader logic
+    # Ultralytics YOLO models use .fit internally, no need for custom DataLoader setup
+    return None, None

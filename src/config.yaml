@@ -1,5 +1,7 @@
 
-experiment_name: yolov9-experiments
-epochs: 10
-learning_rate: 0.001
+experiment_name: yolov9-electrocom
+pretrained_weights: yolov9.pt
+data_config: data/data.yaml
+epochs: 20
+image_size: 640
 batch_size: 16
