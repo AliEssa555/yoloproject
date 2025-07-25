@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/6bce4c65c6e048719846b0c40430ed9f/artifacts
+end_time: 1753462211641
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 6bce4c65c6e048719846b0c40430ed9f
+run_name: traveling-bee-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462211620
+status: 4
+tags: []
+user_id: root

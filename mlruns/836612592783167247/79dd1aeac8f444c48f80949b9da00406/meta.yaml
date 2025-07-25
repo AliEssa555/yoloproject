@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/79dd1aeac8f444c48f80949b9da00406/artifacts
+end_time: 1753462570711
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 79dd1aeac8f444c48f80949b9da00406
+run_name: melodic-mare-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462570696
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/32d946c7c6f14b1486eba53a76c4ae72/artifacts
+end_time: 1753464476960
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 32d946c7c6f14b1486eba53a76c4ae72
+run_name: smiling-auk-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753464451819
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/d873ed82f4cf401fbcb03325b33dd7d7/artifacts
+end_time: 1753462958003
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: d873ed82f4cf401fbcb03325b33dd7d7
+run_name: fun-cod-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462957764
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/cd2908b68dfd4b2da82283558cba15de/artifacts
+end_time: 1753461821934
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: cd2908b68dfd4b2da82283558cba15de
+run_name: amazing-frog-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753461821757
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/fb69da835a6545fcbdb076142a696487/artifacts
+end_time: 1753463562522
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: fb69da835a6545fcbdb076142a696487
+run_name: powerful-hen-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753463562179
+status: 4
+tags: []
+user_id: root

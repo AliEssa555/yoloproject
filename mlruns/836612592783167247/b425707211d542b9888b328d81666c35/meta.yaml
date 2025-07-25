@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/b425707211d542b9888b328d81666c35/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: b425707211d542b9888b328d81666c35
+run_name: enthused-hen-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753465037496
+status: 1
+tags: []
+user_id: root

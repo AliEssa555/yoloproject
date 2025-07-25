@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/961772af90a84d3aa254b737d44dfe86/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 961772af90a84d3aa254b737d44dfe86
+run_name: marvelous-koi-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753463607221
+status: 1
+tags: []
+user_id: root
