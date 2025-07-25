@@ -1,6 +1,6 @@
 
 experiment_name: yolov9-electrocom
-pretrained_weights: yolov9.pt
+pretrained_weights: models/yolov9c.pt
 data_config: data/data.yaml
 epochs: 20
 image_size: 640

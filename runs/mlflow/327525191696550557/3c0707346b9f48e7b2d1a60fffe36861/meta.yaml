@@ -1,0 +1,14 @@
+artifact_uri: /content/yoloproject/runs/mlflow/327525191696550557/3c0707346b9f48e7b2d1a60fffe36861/artifacts
+end_time: 1753462864073
+entry_point_name: ''
+experiment_id: '327525191696550557'
+lifecycle_stage: active
+run_id: 3c0707346b9f48e7b2d1a60fffe36861
+run_name: train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462857541
+status: 3
+tags: []
+user_id: root

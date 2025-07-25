@@ -1,6 +1,14 @@
+from ultralytics import YOLO
+import os
+import requests
+import torch
+
 
 from ultralytics import YOLO
 
 def load_model(config):
-    model = YOLO(config.get("pretrained_weights", "yolov9.pt"))
+    weights_path = config.get("pretrained_weights", "yolov9c.pt")
+    model = YOLO(weights_path)  # This handles loading safely
     return model
+
+
