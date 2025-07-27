@@ -5,3 +5,12 @@ data_config: data/data.yaml
 epochs: 20
 image_size: 640
 batch_size: 16
+
+augmentations:
+  translate: 0.1
+  shear: 2.0
+  flipud: 1.0
+  fliplr: 1.0
+  mosaic: 1.0
+  cutmix: 0.5
+  perspective: 0.001

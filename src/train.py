@@ -23,8 +23,16 @@ def train():
             imgsz=config["image_size"],
             batch=config["batch_size"],
             name=config["experiment_name"],
-            project="experiments"
+            project="experiments",
+            augment=True,  # enable augmentations
+            translate=config["augmentations"].get("translate", 0.0),
+            shear=config["augmentations"].get("shear", 0.0),
+            flipud=config["augmentations"].get("flipud", 0.0),
+            fliplr=config["augmentations"].get("fliplr", 0.0),
+            mosaic=config["augmentations"].get("mosaic", 1.0),
+            cutmix=config["augmentations"].get("cutmix", 1.0),
         )
+
 
 import numpy as np
 
