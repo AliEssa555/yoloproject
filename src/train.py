@@ -24,7 +24,7 @@ def train():
             batch=config["batch_size"],
             name=config["experiment_name"],
             project="experiments",
-            augment=True,  # enable augmentations
+            augment=False,  # enable augmentations
             translate=config["augmentations"].get("translate", 0.0),
             shear=config["augmentations"].get("shear", 0.0),
             flipud=config["augmentations"].get("flipud", 0.0),

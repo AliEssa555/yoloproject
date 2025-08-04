@@ -1,5 +1,4 @@
-
-experiment_name: yolov12-electrocom
+experiment_name: 2.1-yolov12-electrocom
 pretrained_weights: models/yolo12n.pt
 data_config: data/data.yaml
 epochs: 20
