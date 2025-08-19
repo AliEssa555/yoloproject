@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/0119c9ab38b64ab9b7aa0de43c632f86/artifacts
+end_time: 1753462699619
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 0119c9ab38b64ab9b7aa0de43c632f86
+run_name: placid-dove-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462697298
+status: 4
+tags: []
+user_id: root

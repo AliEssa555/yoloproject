@@ -1,0 +1,10 @@
+stages:
+  augment_data:
+    cmd: python src/augmentations.py
+    deps:
+      - src/augmentations.py
+      - data/train/images
+      - data/train/labels
+    outs:
+      - augmented_data/train/images
+      - augmented_data/train/labels

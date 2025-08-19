@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/76362443778540d28ed7c375e9d071ab/artifacts
+end_time: 1753463375645
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 76362443778540d28ed7c375e9d071ab
+run_name: bouncy-pig-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753463374826
+status: 4
+tags: []
+user_id: root

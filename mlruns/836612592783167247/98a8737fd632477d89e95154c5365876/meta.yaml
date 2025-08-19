@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/98a8737fd632477d89e95154c5365876/artifacts
+end_time: 1753461905978
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 98a8737fd632477d89e95154c5365876
+run_name: carefree-flea-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753461905964
+status: 4
+tags: []
+user_id: root

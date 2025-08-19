@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/44828097bce84c398a2c8a0fbf1a4365/artifacts
+end_time: 1753462036367
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 44828097bce84c398a2c8a0fbf1a4365
+run_name: debonair-lark-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462036348
+status: 4
+tags: []
+user_id: root

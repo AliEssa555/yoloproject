@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/837dbb8bb49d473bb56d23b726f5dcef/artifacts
+end_time: 1753461722099
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 837dbb8bb49d473bb56d23b726f5dcef
+run_name: magnificent-flea-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753461720630
+status: 4
+tags: []
+user_id: root

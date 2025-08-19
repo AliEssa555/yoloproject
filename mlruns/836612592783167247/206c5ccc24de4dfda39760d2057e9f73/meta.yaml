@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/206c5ccc24de4dfda39760d2057e9f73/artifacts
+end_time: 1753462886968
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 206c5ccc24de4dfda39760d2057e9f73
+run_name: amazing-slug-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462884490
+status: 4
+tags: []
+user_id: root

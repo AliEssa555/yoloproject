@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/38df246b82d04f728aab55dc88b54b4e/artifacts
+end_time: 1753462306373
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: 38df246b82d04f728aab55dc88b54b4e
+run_name: handsome-slug-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462306361
+status: 4
+tags: []
+user_id: root

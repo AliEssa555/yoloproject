@@ -1,0 +1,14 @@
+artifact_uri: file:///content/yoloproject/mlruns/836612592783167247/ebd02fd81dfa4cf193d4f7a55937891b/artifacts
+end_time: 1753462987807
+entry_point_name: ''
+experiment_id: '836612592783167247'
+lifecycle_stage: active
+run_id: ebd02fd81dfa4cf193d4f7a55937891b
+run_name: powerful-elk-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462987491
+status: 4
+tags: []
+user_id: root

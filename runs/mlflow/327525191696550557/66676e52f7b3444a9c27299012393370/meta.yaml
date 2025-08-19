@@ -1,0 +1,14 @@
+artifact_uri: /content/yoloproject/runs/mlflow/327525191696550557/66676e52f7b3444a9c27299012393370/artifacts
+end_time: 1753467374868
+entry_point_name: ''
+experiment_id: '327525191696550557'
+lifecycle_stage: active
+run_id: 66676e52f7b3444a9c27299012393370
+run_name: train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753467370600
+status: 3
+tags: []
+user_id: AliEssa555
