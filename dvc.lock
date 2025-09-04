@@ -3,28 +3,28 @@ stages:
   augment_data:
     cmd: python src/augmentations.py
     deps:
-    - path: data/train/images
+    - path: data/images/train
       hash: md5
-      md5: f91bb8be26a8f629eb1908db7e0ccf47.dir
-      size: 129430543
-      nfiles: 1916
-    - path: data/train/labels
+      md5: f2d170d97db21768eeb2ae22e5ab4eec.dir
+      size: 99652171
+      nfiles: 1478
+    - path: data/labels/train
       hash: md5
-      md5: 920b2e3a5e39687f7f274728402e14d3.dir
-      size: 502593
-      nfiles: 1916
+      md5: 307ca8556cf63575ecf0065eb23b519b.dir
+      size: 391998
+      nfiles: 1478
     - path: src/augmentations.py
       hash: md5
-      md5: 0b86576fd04d1a88a245dbecc5f3c1d4
+      md5: 51735526d7bb56ee4c38f692410cd5e2
       size: 2398
     outs:
-    - path: augmented_data/train/images
+    - path: augmented_data/images/train
       hash: md5
-      md5: e10e680cc4b5b9411c771825f1f92e03.dir
-      size: 160894397
-      nfiles: 1328
-    - path: augmented_data/train/labels
+      md5: d971b197b7cbe108312c258b34e72623.dir
+      size: 129773571
+      nfiles: 1068
+    - path: augmented_data/labels/train
       hash: md5
-      md5: 6b07d087a21d0aced1674083fbe06a10.dir
-      size: 319035
-      nfiles: 1328
+      md5: bdcbd233726d805961983a99743e30ff.dir
+      size: 261623
+      nfiles: 1068
